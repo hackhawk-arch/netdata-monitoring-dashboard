@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Linux test files
+testfile
+
+# Netdata runtime files
+*.log
+
+# WSL metadata
+*.swp
