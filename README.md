@@ -12,6 +12,7 @@ The goal of this project is to understand:
 * How to automate infrastructure setup using shell scripts
 
 The entire setup is automated using Bash scripts to simulate real-world DevOps practices.
+More about this project roadmap can be found here: [Roadmap.sh Project Page](https://roadmap.sh/projects/simple-monitoring-dashboard)
 
 ---
 
@@ -218,5 +219,6 @@ This will:
 **Kelvin Macharia**
 DevOps & Software Engineering Enthusiast
 Building production-ready systems step by step 🚀
+
 
 ---
